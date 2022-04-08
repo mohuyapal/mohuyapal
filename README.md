@@ -2,7 +2,7 @@
 
 
 
-![mohuyapal's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohuyapal&theme=xcode)
+![mahuapal's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohuyapal&theme=xcode)
 
 
 <!--
